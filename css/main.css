@@ -1,0 +1,123 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v4_4 {
+  width: 800px;
+  height: 600px;
+  background: rgba(226,227,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 80px;
+  border-bottom-left-radius: 80px;
+  overflow: hidden;
+}
+.v4_9 {
+  width: 251px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 170px;
+  left: 527px;
+  font-family: Mouse Memoirs;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_64 {
+  width: 87px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 290px;
+  left: 615px;
+  font-family: Pompiere;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v4_5 {
+  width: 500px;
+  height: 600px;
+  background: rgba(255,244,253,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  border-top-left-radius: 80px;
+  border-top-right-radius: 3px;
+  border-bottom-left-radius: 80px;
+  border-bottom-right-radius: 3px;
+  overflow: hidden;
+}
+.v6_66 {
+  width: 411px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 330px;
+  left: 45px;
+  font-family: Zen Kaku Gothic New;
+  font-weight: Regular;
+  font-size: 13px;
+  opacity: 1;
+  text-align: center;
+}
+.v6_65 {
+  width: 110px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 330px;
+  left: 620px;
+  font-family: Pompiere;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v4_7 {
+  width: 190px;
+  height: 260px;
+  background: url("../images/v4_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 40px;
+  left: 155px;
+  border-top-left-radius: 23px;
+  border-top-right-radius: 23px;
+  border-bottom-left-radius: 23px;
+  border-bottom-right-radius: 23px;
+  overflow: hidden;
+}
+.v2004_2 {
+  width: 32px;
+  height: 32px;
+  background: url("../images/v2004_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 286px;
+  left: 582px;
+  overflow: hidden;
+}
+.v2004_3 {
+  width: 33px;
+  height: 33px;
+  background: url("../images/v2004_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 329px;
+  left: 582px;
+  overflow: hidden;
+}
